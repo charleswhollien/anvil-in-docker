@@ -1,0 +1,5 @@
+# From https://github.com/anvil-works/anvil-runtime 
+# This is a basic setup for things to work out of the box. Please make sure to change your uplink key. 
+data-dir: /app/data
+#uplink-key: "QuohWukae8oh"
+port: 3030
